@@ -1,5 +1,5 @@
 import unittest
-from scr.roman_converter import roman_to_decimal
+from src.roman_converter import roman_to_decimal
 
 class TestRomanToDecimal(unittest.TestCase):
     def test_I(self):
@@ -33,12 +33,6 @@ class TestRomanToDecimal(unittest.TestCase):
     def test_IX(self):
         decimal = roman_to_decimal('IX')
         self.assertEqual(decimal, 9)
-
-def main():
-    my_roman = input('decime tu romano: ')
-    decimal_humano = roman_to_decimal(my_roman)
-
-    print(roman_to_decimal + ' -> ' + str(decimal_humano))
 
 
 if __name__ == '__main__':
