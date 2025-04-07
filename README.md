@@ -2,11 +2,11 @@
 # Trabajo Práctico 1: Desarrollo Guiado por Pruebas (TDD) - Conversión de Números Romanos
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** Joaquin Fernandez
 
 ## Objetivo
 Este trabajo práctico tiene como objetivo practicar el desarrollo guiado por pruebas (TDD) en Python, implementando un convertidor de números decimales a números romanos.
-
+    
 ## Fecha de Vencimiento
 El trabajo debe ser entregado antes del **09/04/2025 a las 13:00 hs**.
 
